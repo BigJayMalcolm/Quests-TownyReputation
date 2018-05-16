@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CustomReward">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/CustomReward.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

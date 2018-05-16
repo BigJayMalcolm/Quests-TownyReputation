@@ -1,0 +1,5 @@
+name: Quests-TownyReputation
+main: me.bigjaymalcolm.townyreputation.quests.ReputationReward
+version: 0.1
+author: BigJayMalcolm
+depend: [ Towny, Quests ]
