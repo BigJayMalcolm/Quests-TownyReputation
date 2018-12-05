@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfb738e2-9488-41b1-828a-e1e55f2f2328" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/CustomRequirement.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/CustomReward.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationRequirement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationReward.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Towny.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Towny.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/listeners/PlayerEventListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TownyReputation-0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/me/bigjaymalcolm/townyreputation/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/me/bigjaymalcolm/townyreputation/listeners/PlayerEventListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationReward.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationReward.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="291">
@@ -47,14 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReputationReward.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReputationReward.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationReward.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -62,8 +46,8 @@
       <file leaf-file-name="ReputationRequirement.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationRequirement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="35" column="103" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="103" />
+            <state relative-caret-position="352">
+              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,8 +80,8 @@
         <option value="$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/Main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationRequirement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationReward.java" />
         <option value="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationReward.java" />
       </list>
     </option>
   </component>
@@ -122,6 +106,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,24 +141,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="quests" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Quests-TownyReputation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Quests-TownyReputation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/CustomRequirement.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -314,6 +291,37 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationRequirement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="103" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationReward.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
@@ -329,9 +337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -355,9 +360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -396,13 +398,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/listeners/PlayerEventListener.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/Main.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -412,8 +407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationRequirement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="35" column="103" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="103" />
+        <state relative-caret-position="352">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -422,11 +417,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/bigjaymalcolm/townyreputation/quests/ReputationReward.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
         </state>
       </provider>
     </entry>

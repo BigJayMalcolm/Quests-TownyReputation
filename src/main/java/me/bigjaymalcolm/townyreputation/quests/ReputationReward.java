@@ -34,14 +34,15 @@ public class ReputationReward extends CustomReward
 
             if (reputation > 0)
             {
-                playerData.set("reputation." + town.toLowerCase(), (reputation + ((Integer) playerData.get("reputation." + town.toLowerCase()))));
+                Integer currentReputation = (Integer) playerData.get("reputation." + town.toLowerCase());
+                playerData.set("reputation." + town.toLowerCase(), (reputation + currentReputation));
             }
             else
             {
                 playerData.set("reputation." + town.toLowerCase(), reputation);
             }
 
-            player.sendMessage("Your reputation towards " + town + " has been changed by " + reputation.toString()); // Inform the player that their reputation has changed
+            player.sendMessage("Your reputation towards " + town + " has been changed by " + reputation.toString());
         }
     }
 }
